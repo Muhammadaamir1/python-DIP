@@ -1,0 +1,8 @@
+print("*******CV********")
+print("*Enter Your Personal Data*")
+input("*Enter Your Name         *")
+input("*Enter Your D.O.B        *")
+input("*Enter Your Age          *")
+input("*Enter your home address *")
+input("*enter your qualification*")
+input("*Enter your phoen number *")
